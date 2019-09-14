@@ -1,3 +1,1 @@
-W pierwszy wierszu inicjalizujemy wyłącznie jeden z wymiarów. Musimy tam podać tylko liczbę wierszy, 
-które będzie przechowywała nasza tablica dwuwymiarowa. Kolejne 3 linie kodu to inicjalizacja 
-wierszy tablicy.
+Hello World!
